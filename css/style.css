@@ -1,0 +1,18 @@
+body {
+  padding: 40px;
+  display: flex;
+  justify-content: center;
+  background-color: rgb(202, 215, 215);
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+}
+
+td,
+th {
+  border: 1px solid #272525;
+  text-align: left;
+  padding: 8px;
+}/*# sourceMappingURL=style.css.map */
